@@ -1,0 +1,16 @@
+{
+    "download_dir": "/home/rodolfo/Escritorio/Selenium/data",
+    "kaggle_username": "fofo_campeon@outlook.com",
+    "kaggle_password": "Fofo123",
+    "output_dir": "/home/rodolfo/Escritorio/Selenium/data",
+    "smtp": {
+        "sender_email": "fofo_campeon@outlook.com",
+        "receiver_email": "fofo_campeon@outlook.com,rodolfo.saucedo@tmceurope.nl",
+        "subject": "Archivo Procesado",
+        "body": "Adjunto encontrarás el archivo Excel procesado.",
+        "smtp_server": "smtp-mail.outlook.com",
+        "smtp_port": 587,
+        "login": "fofo_campeon@outlook.com",
+        "password": "ChampioN9090"
+    }
+}
