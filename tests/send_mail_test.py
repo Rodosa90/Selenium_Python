@@ -52,8 +52,8 @@ if __name__ == "__main__":
     attachment_path = "/home/rodolfo/Escritorio/Selenium/data/Employees.xlsx"  # Cambia esto a la ruta de un archivo existente para probar
     smtp_server = "smtp-mail.outlook.com"
     smtp_port = 587
-    login = "fofo_campeon@outlook.com"
-    password = "ChampioN9090"
+    login = "xxxxxx@outlook.com"
+    password = "xxxxxxx"
 
     # Enviar el correo de prueba
     send_email(sender_email, receiver_email, subject, body, attachment_path, smtp_server, smtp_port, login, password)
